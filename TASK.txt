@@ -1,0 +1,26 @@
+HTTP 1.1 
+* HTTP is hypertext transmission portocal
+* HTTP 1.1 is first standardized verison of HTTP 
+* it is used to no longer required for each connection to be terminated immediately after every request was served with the response 
+* the upgrade header was used to indicate a perference from the client the made it possible to sewitch to a more preferrred portocol 
+* HTTP 1.1 reduces the HTTP web traffic 
+* used to request web page at a one time only 1 file 
+HTTP2.0
+* HTTP /2 is a revision of the HTTP network protocol used by the world wide web
+* the HTTP 2.0 is loaded more then one file and UI at the same time 
+* the multiplexing in HTTP 2 make it a lot faster than its predecessors
+* http 2.0 is used a single TCP connection to transmit requests and frames thus eliminating the need for multiple connections 
+* HTTP 2.0 streaming uses a prioritization tree for more efficient transmission.
+* HTTP 2.0 is more secure as it uses binary protocol instead of plaintext.
+--------------------------------------------------------------------------------------------------------------------
+
+Object:
+In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A cup has a color, a design, weight, a material it is made of, etc. The same way, JavaScript objects can have properties, which define their characteristics.
+
+Creating Objects in JavaScript:
+By object literal
+By creating instance of Object directly (using new keyword)
+By object literal:
+The syntax of creating object using object literal is given below:
+
+
